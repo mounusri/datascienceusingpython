@@ -1,0 +1,35 @@
+Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. 
+It was created by Guido van Rossum during 1985- 1990. 
+Like Perl, Python source code is also available under the GNU General Public License (GPL). 
+This tutorial gives enough understanding on Python programming language.
+Python is an easy to learn, powerful programming language.
+It has efficient high-level data structures and a simple but effective approach to object-oriented programming.
+Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and 
+rapid application development in many areas on most platforms.
+The Python interpreter is easily extended with new functions and data types implemented in C or C++ (or other languages callable from C). 
+Python is also suitable as an extension language for customizable applications.
+If you are running new version of Python, then you would need to use print statement with parenthesis as 
+in print ("Hello, Python!");.
+Python variables do not need explicit declaration to reserve memory space. 
+The declaration happens automatically when you assign a value to a variable.
+The equal sign (=) is used to assign values to variables.
+The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator
+is the value stored in the variable.
+Python language supports the following types of operators:
+    Arithmetic Operators
+    Comparison (Relational) Operators
+    Assignment Operators
+    Logical Operators
+    Bitwise Operators
+    Membership Operators
+    Identity Operators
+These operators compare the values on either sides of them and decide the relation among them. 
+They are also called Relational operators.
+Decision making is anticipation of conditions occurring while execution of the program and specifying 
+actions taken according to the conditions.
+Decision structures evaluate multiple expressions which produce TRUE or FALSE as outcome.
+You need to determine which action to take and which statements to execute if outcome is TRUE or FALSE otherwise.
+python also supports the while loop,for loop,nested loops.
+The Python language has diversified application in the software development companies such as in gaming, 
+web frameworks and applications, language development, prototyping, graphic design applications, etc.
+This provides the language a higher plethora over other programming languages used in the industry.
